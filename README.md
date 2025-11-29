@@ -59,23 +59,19 @@ Repository: **[Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](http
 ---
 
 ## 📊 GitHub Activity & Stats
-
 <p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagvanshi781-pixel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
 
 ## 📂 Quick Navigation
 
