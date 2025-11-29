@@ -104,7 +104,7 @@ If you’d like to talk about *data projects, internships, or analytics roles*, 
 - 🔗 LinkedIn: **[Prince Soni](https://www.linkedin.com/in/prince-soni-398b6a225)**  
 
 > “Data may look messy at first, but there is always a story hiding inside it.” 📚✨
-## 🐍 Contribution Snake
+>## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagvanshi781-pixel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
