@@ -1,20 +1,18 @@
 # nagavanshi781-pixel
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Prince Soni 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst</b> • Python • SQL • Power BI • Storytelling with data
+  <img src="https://github-readme-stats.vercel.app/api?username=nagvanshi781-pixel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagvanshi781-pixel&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-soni-398b6a225">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nagvanshi781@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagvanshi781-pixel&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagvanshi781-pixel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
